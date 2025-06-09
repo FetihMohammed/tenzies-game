@@ -20,15 +20,3 @@ You can try out Tenzies Game by visiting the [app page](https://scrimba-tenzies-
 
 Your game progress, including your name, time, and roll count, is saved in local storage.
 Want to try again? Click "New Game" to start over.
-
-## Screenshot
-![Start screen](https://imaginario27.com/wp-content/uploads/2023/10/tenzies-game-start-screen.jpg)
-![In-game](https://imaginario27.com/wp-content/uploads/2023/10/tenzies-game-dice.jpg)
-![Game completed](https://imaginario27.com/wp-content/uploads/2023/10/tenzies-game-completed.jpg)
-![Scoreboard](https://imaginario27.com/wp-content/uploads/2023/10/tenzies-game-scoreboard.jpg)
-
-## Acknowledgments
-Tenzies Game was created to offer a fun and challenging dice game experience. Special thanks to Scrimba for their educational resources.
-
-## Contact
-If you have any questions or suggestions, feel free to contact me at designer@imaginario27.com.
