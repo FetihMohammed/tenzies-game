@@ -9,7 +9,7 @@ Tenzies Game is a React-based dice game where players aim to match 10 die faces 
 - User-friendly and responsive design.
 
 ## Demo
-You can try out Tenzies Game by visiting the [app page](https://scrimba-tenzies-game-img27.netlify.app/).
+You can try out Tenzies Game by visiting the [app page](https://tenziesbyfetih.onrender.com/).
 
 ## How to Use
 1. When you open Tenzies Game, you'll land on the start screen where you need to enter your name.
